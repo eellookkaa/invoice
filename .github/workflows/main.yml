@@ -1,7 +1,7 @@
 pages:
   stage: deploy
   script:
-    - cp index.html public
+    - cp pages/index.html public
   artifacts:
     paths:
       - public
