@@ -1,0 +1,10 @@
+.env
+
+DejaVu*
+
+out.pdf
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.py
